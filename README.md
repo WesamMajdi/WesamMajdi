@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/WesamMajdi.png" width="140" alt="Wesam Majdi Al Balawi" />
-
 # Hi there, I'm Wesam Majdi Al Balawi 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;ASP.NET+Core+%7C+Laravel+%7C+React;Flutter+Mobile+Apps;Freelancer+on+Upwork" alt="Typing SVG" /></a>
